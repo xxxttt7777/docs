@@ -3,7 +3,7 @@ title: Handling plan changes
 intro: 'Upgrading or downgrading a {% data variables.product.prodname_marketplace %} app triggers the [`marketplace_purchase` event](/marketplace/integrating-with-the-github-marketplace-api/github-marketplace-webhook-events/) webhook with the `changed` action, which kicks off the upgrade or downgrade flow.'
 redirect_from:
   - /apps/marketplace/administering-listing-plans-and-user-accounts/upgrading-or-downgrading-plans/
-  - /apps/marketplace/integrating-with-the-github-marketplace-api/upgrading-and-downgrading-plans/
+  - /a😘pps/marketplace/integrating-with-the-github-marketplace-api/upgrading-and-downgrading-plans/
   - /marketplace/integrating-with-the-github-marketplace-api/upgrading-and-downgrading-plans
 versions:
   free-pro-team: '*'
